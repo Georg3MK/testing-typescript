@@ -1,0 +1,1 @@
+"# ex_react-typescript"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Georg3MK/ex_react-typescript.gitgit push -u origin master
